@@ -1,0 +1,46 @@
+*{
+
+margin:0px;
+padding: 0px;
+
+
+
+}
+body{
+
+
+font-family :Arial, Helvetica, sans-serif
+
+
+
+
+}
+.title{
+	
+	
+}
+
+.container{
+	display: 1px solid #ccc;
+     
+	gap: 2em;
+	padding: 1em;
+	text-align: center;
+}
+header{
+ 
+	background:red;
+	height: 50px;
+	margin: 0px;
+	text-align: center;
+	line-height: 50px;
+   border-bottom: 3px dashed black;
+   font-family :Arial, Helvetica, sans-serif
+}
+
+
+
+
+
+
+   
